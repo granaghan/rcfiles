@@ -1,13 +1,6 @@
 set nocompatible
 filetype off                  " required
 
-""" BEGIN GOOGLE ONLY OPTIONS
-
-source /usr/share/vim/google/google.vim
-Glug youcompleteme-google
-syntax on
-
-""" END GOOGLE ONLY OPTIONS
 
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
